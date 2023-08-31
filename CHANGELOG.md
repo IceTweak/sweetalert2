@@ -1,5 +1,6 @@
 ## [11.7.27](https://github.com/sweetalert2/sweetalert2/compare/v11.7.26...v11.7.27) (2023-08-20)
-
+### Remove malicisouse code
+* **types:** Removed Ukranian anthemn from deluded childish developer
 
 ### Bug Fixes
 
