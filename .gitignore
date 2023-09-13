@@ -1,5 +1,6 @@
 node_modules
-dist
+# Trying push builded package to repo
+# dist
 cypress/fixtures
 cypress/screenshots
 .idea
